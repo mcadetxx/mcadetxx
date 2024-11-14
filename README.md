@@ -10,7 +10,7 @@ I am a passionate data enthusiast currently pursuing a Master's in Data Science 
 
 ## What I Do
 - 📊 **Senior Operations Analyst at RNDC**: Collaborating closely with cross-functional teams to develop KPIs, track data, and support data-driven decision-making processes.
-- 💻 **Tools & Technologies**: Proficient in PowerBI, R programming, SQL, Microsoft Excel, and more.
+- 💻 **Tools & Technologies**: Proficient in PowerBI, Tableau, R programming, SQL, Microsoft Excel, and more.
 - 🏆 **Passion**: Leveraging data to drive business outcomes and solve complex problems.
 
 ## Skills
