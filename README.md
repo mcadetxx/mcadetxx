@@ -15,7 +15,7 @@ I am a passionate data enthusiast currently pursuing a Master's in Data Science 
 
 ## Skills
 - **Programming Languages**: Python, R, SQL, JavaScript, C++, Java
-- **Tools & Technologies**: RStudio, Power BI, Tableau, Git, GitHub, Shiny, Markdown, Microsoft Excel, Snowflakes, WMS
+- **Tools & Technologies**: RStudio, Power BI, Tableau, Git, GitHub, Shiny, Markdown, Microsoft Excel, Snowflake, WMS
 - **Data Science**: Statistics, Optimization, Data Analysis, Machine Learning, Data Visualization
 - **Web Development**: HTML, CSS, JavaScript, React
 
