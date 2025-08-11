@@ -29,6 +29,6 @@ In my free time, you can find me:
 ### Let's Connect!
 I'm always open to new opportunities, collaborations, and networking with like-minded individuals. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/cadetm).
 
-- 📫 **How to reach me**: [cadetmxx@proton.com]
+- 📫 **How to reach me**: [cadetmx01@gmail.com]
 
 ![Profile views](https://komarev.com/ghpvc/?username=marckenroldcadet&color=blue)
