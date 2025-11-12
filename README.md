@@ -105,7 +105,7 @@ Recent grad with **MS in Data Science** at Florida Polytechnic University while 
 
 | 🎯 Degree/Cert | 🏫 Institution | 📅 Year | 🌟 Highlights |
 |----------------|----------------|---------|---------------|
-| **MS in Data Science** | Florida Polytechnic University | 2024-2026 | Machine Learning • Advanced Analytics • Cloud Computing |
+| **MS in Data Science** | Florida Polytechnic University | 2023-2024 | Machine Learning • Advanced Analytics • Cloud Computing |
 | **BS in Business Analytics** | Florida Polytechnic University | 2018-2022 | Supply Chain Focus • Data Modeling • Statistical Analysis |
 | **AWS Cloud Practitioner** | Amazon Web Services | 2024 | Cloud Architecture • Data Pipeline Design |
 | **Power BI Data Analyst** | Microsoft | 2023 | Advanced DAX • Data Modeling • Enterprise BI |
