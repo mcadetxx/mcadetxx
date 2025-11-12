@@ -484,7 +484,7 @@ Entrepreneurship • Career Growth • Investment Strategy • Tech Leadership
 
 ### 📫 **How to Reach Me**
 
-<a href="https://www.linkedin.com/in/marckennrold">
+<a href="[https://www.linkedin.com/in/marckennrold](https://www.linkedin.com/in/marckenrold/)">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mcadet.analytics@gmail.com">
