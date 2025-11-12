@@ -51,7 +51,7 @@
 
 **Senior Operations Analyst** at **Republic National Distributing Company (RNDC)**, where I manage **$50M+ logistics budgets** and architect data solutions that drive **measurable business outcomes**. 
 
-Currently pursuing my **MS in Data Science** at Florida Polytechnic University while serving as **President of NSBE Florida Poly Chapter**, leading a community of 100+ engineers toward professional excellence.
+Recent grad with **MS in Data Science** at Florida Polytechnic University while serving as **President of NSBE Florida Poly Chapter**, leading a community of 100+ engineers toward professional excellence.
 
 ### 🎯 My Mission
 > *"Transform complex data into strategic business advantages through analytics, automation, and AI-powered innovation."*
