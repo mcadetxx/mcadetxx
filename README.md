@@ -163,10 +163,10 @@ Engineered data validation workflows bridging NGPLM to SAP, ensuring **>99.5% BO
 💬 Interested in discussing **data analytics**, **supply chain optimization**, **FinTech** or **collaboration opportunities**?
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/marckenrold"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<sub>⭐ From [Marckenrold Cadet](https://github.com/yourusername) — Data Driven. Impact Focused.</sub>
+<sub>⭐ From [Marckenrold Cadet](https://github.com/mcadetxx) — Data Driven. Impact Focused.</sub>
 
 </div>
 
