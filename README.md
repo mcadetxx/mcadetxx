@@ -144,17 +144,6 @@ Engineered data validation workflows bridging NGPLM to SAP, ensuring **>99.5% BO
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
 ## 🏆 Key Achievements
 
 <div align="center">
@@ -186,6 +175,4 @@ Engineered data validation workflows bridging NGPLM to SAP, ensuring **>99.5% BO
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
-Autofill
 
-;
